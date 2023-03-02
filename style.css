@@ -1,0 +1,44 @@
+body{
+    background-color: red;
+    color: aliceblue;
+}
+
+button{
+    border-radius: 15px;
+    padding: 8px;
+}
+
+.productos{
+    height: 70vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.productos_categorías{
+    display: flex;
+    flex-direction: column;
+    border:solid black;
+    color:#833737;
+    background-color: aliceblue;
+    width:30%;
+    border-radius: 20px;
+}
+
+.titulo{
+    font-size: 1.5rem;
+}
+
+ul li{
+    list-style: none;
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+img{
+    height: 7rem;
+    width: 3rem;
+    aspect-ratio: 1/1;
+}
