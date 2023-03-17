@@ -141,7 +141,7 @@ if (seleccionBebidas >=1 && seleccionBebidas <=3){
                 }
             }
         }
-
+        console.log(precioGaseosas);
         case 2:
         if (seleccionBebidas==2){
             //SELECCIÓN DE JUGOS
@@ -239,3 +239,4 @@ if (seleccionBebidas >=1 && seleccionBebidas <=3){
     }
 }
 
+alert("Gracias por su compra");
