@@ -237,11 +237,5 @@ if (seleccionBebidas >=1 && seleccionBebidas <=3){
         default:
         break;
     }
-
-
-    const arraySubtotales=[];
-    
-
-
 }
 
